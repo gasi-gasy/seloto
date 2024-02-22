@@ -16,6 +16,8 @@ Ohatra:
  5 14 16 23 24 35
 ```
 
+Indro ny `Code source` nosoratana amin'ny **D**
+
 ```d
 import std.stdio: writefln;
 import std.random: MinstdRand0, randomShuffle, unpredictableSeed;
